@@ -23,5 +23,5 @@ I´m Drew. I am 17 years old, and I am proficient in Javascript, C#, C++, Rust a
 
 ## ⚡ My Github
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=drewdapilot&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdapilot&layout=compact&count_private=true&theme=gruvbox" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=drewridley&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewridley&layout=compact&count_private=true&theme=gruvbox" />
