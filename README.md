@@ -14,7 +14,6 @@ I´m Drew. I am 19 years old, and I am proficient in Javascript, C#, C++, Rust a
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
