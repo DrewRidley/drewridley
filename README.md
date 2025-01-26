@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Drew. I am 21 years old, and I am proficient in Javascript, C#, C++, Rust and Python. I have experience with front-end, backend and SPA development, and also have experience with graphics programming and game development. I recently have been pursuing my interest in distributed systems with my project, ![Nevy](https://github.com/DrewRidley/nevy).
+I´m Drew. I am 21 years old, and I am proficient in Javascript, C#, C++, Rust and Python. I have experience with front-end, backend and SPA development, and also have experience with graphics programming and game development. I recently have been pursuing my interest in distributed systems with my project, [Nevy](https://github.com/DrewRidley/nevy).
 
 ## 🚀💻 Technologies & Tools
 
